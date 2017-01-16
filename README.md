@@ -7,7 +7,9 @@ Para arrancar un servidor web con livereload para visualizar la documentación
 generada en HTML y reconstruida conforme se realizan cambios:
 
 ```bash
-    pip install -r requirements.txt
-
-    python server.py
+    # pip install -r requirements.txt
+    # cd docs
+    # make html
+    # cd ..
+    # python server.py
 ```
