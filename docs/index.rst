@@ -8,7 +8,7 @@ Documentación para el desarrollador de Yuido
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenidos:
    
    ciclo-de-vida-proyectos
 
